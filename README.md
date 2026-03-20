@@ -14,8 +14,8 @@
 ---
 
 ## 📌 Projects
-- Password Generator (Python
-- Calculator (Python
+- Password Generator (Python)
+- Calculator (Python)
 - To-Do List CLI App (Python)
 
 ---
