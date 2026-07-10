@@ -2,7 +2,7 @@
 
 🎓 Engineering Student  
 💻 Learning Python & DSA  
-🚀 Preparing for GATE 2026  
+🚀 Preparing for GATE 2027
 
 ---
 
