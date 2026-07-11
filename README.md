@@ -1,24 +1,113 @@
-# Hi 👋, I'm Satyasree
+# Hi 👋, I'm Satyasree Sabbavarapu
 
-🎓 Engineering Student  
-💻 Learning Python & DSA  
-🚀 Preparing for GATE 2027
+🎓 Final Year B.Tech Student in Computer Science & Engineering (Data Science)
+
+💻 Aspiring Software Engineer | AI Enthusiast | Python Developer
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech in CSE (Data Science) at Raghu Engineering College
+- 📊 Current CGPA: **8.43/10**
+- 🐍 Passionate about Python, AI, and Software Development
+- 📚 Currently learning Data Structures, SQL, and AI Applications
+- 🎯 Actively preparing for Software Engineering placements
+- 🌱 Always exploring new technologies and building real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 - Python
-- DSA Basics
-- Problem Solving
+- SQL
+- C (Basic)
+
+### Core CS
+- Data Structures
+- Object-Oriented Programming
+- DBMS
+
+### Frameworks & Libraries
+- Streamlit
+- Plotly
+- SQLite
+- Google Gemini API
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## 📌 Projects
-- Password Generator (Python)
-- Calculator (Python)
-- To-Do List CLI App (Python)
+# 🌟 Featured Project
+
+## 🎓 CareerCompass AI
+
+An AI-powered placement preparation platform that helps students become interview-ready.
+
+### Features
+
+- 👤 Student Profile Management
+- 🏢 Company Eligibility Checker
+- 💻 DSA Progress Tracker
+- 🧠 Aptitude Tracker
+- 📅 Interview Tracker
+- 📄 Resume Manager
+- 🤖 AI Resume Analyzer using Google Gemini
+- 📊 Analytics Dashboard
+
+### Tech Stack
+
+Python • Streamlit • SQLite • Plotly • Google Gemini AI
+
+### 🔗 Links
+
+**GitHub Repository**
+
+https://github.com/satyasreesabbavarapu-cloud/CareerCompass-AI
+
+**Live Demo**
+
+https://satyasreesabbavarapu-cloud-careercompass-ai-app-vbtmda.streamlit.app
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/satya-sree-sabbavarapu-679025283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuddXbYwBQ5iM%2BY6iRIRYBQ%3D%3D)
+## 📜 Certifications
+
+- NPTEL – Introduction to Python
+- Skillrack – Python
+- Infosys Springboard – AI & ML Virtual Internship (Ongoing)
+
+---
+
+## 🎯 Current Goals
+
+- Master Data Structures & Algorithms
+- Strengthen Python and SQL
+- Build AI-powered applications
+- Secure a Software Engineering role
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+
+satyasreesabbavarapu@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/satya-sree-sabbavarapu-679025283
+
+💻 GitHub
+
+https://github.com/satyasreesabbavarapu-cloud
+
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me.
